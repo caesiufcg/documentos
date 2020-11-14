@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Documentos',
-  tagline: 'Bla bla bla',
+  tagline: 'Documentos públicos do CAESI',
   url: 'https://caesiufcg.github.io',
-  baseUrl: '/',
+  baseUrl: '/documentos/',
   onBrokenLinks: 'throw',
   favicon: 'img/caesi-logo.png',
   organizationName: 'caesiufcg',
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'documentos', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Documentos',
